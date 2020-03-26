@@ -85,9 +85,7 @@ export default {
 
 <style scoped>
  
-* {
-  box-sizing: border-box;
-}
+
 
 .erc {
   background-color: #f4f4f4;
